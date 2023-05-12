@@ -53,7 +53,7 @@ Copyright [2023] [Jonathan Rivera Vasquez]
    you may not use this file except in compliance with the License.
    You may obtain a copy of the License at
 
-       http://www.apache.org/licenses/LICENSE-2.0
+   http://www.apache.org/licenses/LICENSE-2.0
 
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
@@ -65,5 +65,5 @@ Copyright [2023] [Jonathan Rivera Vasquez]
 
 ## Author Info
 
-- Linkedin - [jriveraa]([https://twitter.com/jamesqquick](https://www.linkedin.com/in/jriveraaa/))
+- Linkedin - [jriveraa]([https://www.linkedin.com/in/jriveraaa/])
 - Website - [Jonathan R.V](https://jamesqquick.com)
