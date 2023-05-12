@@ -21,15 +21,15 @@ You're sections headers will be used to reference location of destination.
 ## Description
 This mobile app has different points which users can see and interact with the following sections or modules of the application:
 
-● Events calendar
-● Display of events by day
-● Display of the capacity of the event according to the one selected
-● Selection of capacity seats
-● Pre-invoice display
-● Ticket purchase option (emulated process)
-● Display of purchased tickets
-● Purchase history
-● Selection, display of a specific ticket, load map with the location of the theater
+- Events calendar
+- Display of events by day
+- Display of the capacity of the event according to the one selected
+- Selection of capacity seats
+- Pre-invoice display
+- Ticket purchase option (emulated process)
+- Display of purchased tickets
+- Purchase history
+_ Selection, display of a specific ticket, load map with the location of the theater
 whose ticket I select
 
 #### Technologies
@@ -40,7 +40,7 @@ whose ticket I select
 - Kotlin
 - Firebase
 - Cloud Firestore
-- 
+
 [Back To The Top](#TicketAJJAM)
 
 ## License
