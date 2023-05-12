@@ -1,2 +1,4 @@
 # TicketAJJAM
-Solution for the purchase of tickets and admission to the event of several theaters, through a events calendar, capacity and ticket.
+
+
+![Project Image](https://raw.githubusercontent.com/riveraaj/TicketAJJAM/main/src/mobile-app.png)
