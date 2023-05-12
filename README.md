@@ -29,7 +29,7 @@ This mobile app has different points which users can see and interact with the f
 - Ticket purchase option (emulated process)
 - Display of purchased tickets
 - Purchase history
-_ Selection, display of a specific ticket, load map with the location of the theater
+- Selection, display of a specific ticket, load map with the location of the theater
 whose ticket I select
 
 #### Technologies
@@ -65,5 +65,5 @@ Copyright [2023] [Jonathan Rivera Vasquez]
 
 ## Author Info
 
-- Linkedin - [jriveraa]([https://www.linkedin.com/in/jriveraaa/])
+- Linkedin - [jriveraa](https://www.linkedin.com/in/jriveraaa/)
 - Website - [Jonathan R.V](https://jamesqquick.com)
